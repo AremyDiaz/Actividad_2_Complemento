@@ -1,0 +1,65 @@
+VarName1,ID,host_response_time,host_response_rate,host_acceptance_rate,hosTrue_is_superhost,host_has_profile_pic,host_identity_verified,host_listings_count,neighbourhood_cleansed,latitude,longitude,room_type,accommodates,bathrooms_text,bedrooms,beds,price,minimum_nights,maximum_nights,availability_365,number_of_reviews,number_of_reviews_ltm,review_scores_rating,review_scores_accuracy,review_scores_cleanliness,review_scores_checkin,review_scores_communication,review_scores_location,review_scores_value,instant_bookable,calculated_host_listings_count,reviews_per_month
+291,1780552,Unknown,0,0,False,True,True,3,Las Condes,-33.41191,-70.56742,Hotel room,4,3,2,3,70443,1,30,173,67,0,4.47,4.64,4.65,4.74,4.73,4.88,4.61,False,2,0.64
+294,3319358,a few days or more,0,0.17,False,True,True,2,Santiago,-33.44002,-70.64289,Hotel room,2,2,1,1,23000,1,30,358,1,1,5,5,5,5,5,5,5,False,2,0.32
+443,5301544,Unknown,0,0,False,True,True,3,Las Condes,-33.41182,-70.56921,Hotel room,2,3,1,1,52832,1,30,173,23,0,4.38,4.48,4.71,4.67,4.62,4.86,4.48,False,2,0.29
+819,10428649,within an hour,0.6,0.78,False,True,True,3,Providencia,-33.43114,-70.63036,Hotel room,2,3,1,2,72829,1,365,192,17,8,4.47,4.76,4.71,4.53,4.65,4.65,3.82,True,3,0.26
+1641,16845288,within an hour,1,0.99,False,True,True,10,Las Condes,-33.39976,-70.57043,Hotel room,4,10,1,2,91467,3,30,294,5,3,4.6,5,4.8,5,4.6,5,5,True,7,0.12
+1794,18805422,within a few hours,1,0.47,False,True,True,1,Lo Barnechea,-33.35213,-70.24774,Hotel room,6,1,2,5,509453,2,30,303,58,1,4.97,4.98,4.78,4.98,5,5,4.7,False,1,0.97
+1859,18328436,within a day,0.6,0.67,False,True,True,6,Las Condes,-33.41093,-70.56796,Hotel room,2,6,1,2,91321,1,30,355,10,5,4.9,4.9,4.8,4.8,4.7,5,4.9,True,3,0.21
+1867,18338868,within a day,0.6,0.67,False,True,True,6,Las Condes,-33.41102,-70.56803,Hotel room,4,6,2,4,108588,1,30,351,31,9,4.53,4.73,4.67,4.83,4.47,4.9,4.33,True,3,0.54
+1868,18339690,within a day,0.6,0.67,False,True,True,6,Las Condes,-33.41102,-70.56803,Hotel room,5,6,3,5,146169,1,30,344,30,5,4.43,4.6,4.53,4.4,4.47,4.9,4.6,True,3,0.63
+1871,18343561,within an hour,0.6,0.78,False,True,True,3,Providencia,-33.42941,-70.63174,Hotel room,4,3,2,3,93592,1,365,160,12,8,4.5,4.4,4.7,4.6,4.6,4.8,4.6,True,3,0.2
+1905,18425153,within an hour,1,0.99,True,True,True,4,Las Condes,-33.41045,-70.56437,Hotel room,2,4,1,2,52207,1,365,217,99,12,4.82,4.93,4.91,4.97,4.98,4.98,4.87,True,4,1.58
+1952,19481537,within an hour,0.96,1,False,True,True,4,Santiago,-33.43717,-70.6455,Hotel room,2,4,1,1,35000,1,30,365,84,10,4.52,4.73,4.58,4.81,4.73,4.96,4.61,True,4,1.38
+2167,21187096,within an hour,1,0.99,False,True,True,10,Las Condes,-33.39977,-70.57167,Hotel room,4,10,1,4,87319,1,365,251,8,2,4.88,5,5,4.88,5,5,5,True,7,0.15
+2198,20653001,within a day,1,1,False,True,True,4,Providencia,-33.4243,-70.61572,Hotel room,3,4,1,2,57235,2,100,173,5,1,4.2,5,3.6,5,5,5,4.8,True,2,0.09
+2231,21476066,within an hour,1,0.99,False,True,True,10,Las Condes,-33.39997,-70.5705,Hotel room,5,10,2,3,105037,3,365,286,39,13,4.54,4.77,4.74,4.64,4.54,4.95,4.67,True,7,0.71
+2250,21356196,Unknown,0,0,False,True,True,4,Las Condes,-33.41798,-70.55659,Hotel room,1,4,1,1,28000,6,12,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0
+2357,21768099,within an hour,1,0.99,True,True,True,4,Las Condes,-33.40944,-70.5667,Hotel room,2,4,1,2,52207,1,365,205,35,10,4.8,4.91,4.86,5,5,4.97,4.77,True,4,0.65
+2532,22790634,within an hour,1,1,False,True,True,4,Santiago,-33.4353,-70.64737,Hotel room,2,4,1,1,45000,2,30,172,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2535,22809591,within an hour,1,0.86,False,True,False,1,Las Condes,-33.40623,-70.56691,Hotel room,2,1,1,1,101262,2,30,361,1,1,5,5,5,5,4,5,5,True,1,0.4
+2563,22925263,within a few hours,0.9,1,True,True,True,7,Santiago,-33.43888,-70.66741,Hotel room,2,7,1,2,26416,1,30,90,6,1,3.5,4,3.17,4.83,4.67,4.33,4,True,7,0.14
+2608,23427221,a few days or more,0.4,1,False,True,False,1,Recoleta,-33.43214,-70.63888,Hotel room,16,1,12,18,59877,1,30,365,2,0,3,3,5,3,3.5,5,4.5,True,1,0.04
+2714,23167984,within a few hours,0.9,1,True,True,True,7,Santiago,-33.43986,-70.66851,Hotel room,6,7,3,6,42266,1,30,89,4,1,3.75,4,3.5,4.5,4.25,4.5,3.5,True,7,0.09
+2760,23254263,within an hour,1,1,False,True,False,2,Providencia,-33.42975,-70.63464,Hotel room,5,2,1,4,325799,1,5,0,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0
+2784,23290918,within a few hours,0.9,1,True,True,True,7,Santiago,-33.44014,-70.66671,Hotel room,2,7,1,2,30819,1,30,89,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,7,0
+2838,25294191,within an hour,1,1,False,True,False,2,Providencia,-33.43003,-70.63457,Hotel room,2,2,1,1,167302,1,30,250,1,0,0,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0.02
+2864,24621931,a few days or more,0,0.5,False,True,True,1,Santiago,-33.43875,-70.66187,Hotel room,2,1,1,1,48430,1,30,365,1,0,0,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0.02
+3098,25013942,within an hour,1,0.92,False,True,True,1,Pudahuel,-33.43585,-70.76892,Hotel room,2,1,1,2,25000,1,30,299,42,10,4.86,4.88,4.86,4.9,4.95,4.64,4.81,True,1,0.86
+3137,27395357,within a day,0.5,1,False,True,True,1,Providencia,-33.41813,-70.61086,Hotel room,1,1,1,1,74846,1,30,365,1,1,5,5,5,5,5,5,5,True,1,0.12
+3227,27704640,Unknown,0,1,False,True,False,0,Providencia,-33.4355,-70.6186,Hotel room,2,0,1,2,45000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3340,29024695,within a day,1,1,False,True,True,1,Providencia,-33.43195,-70.63011,Hotel room,2,1,1,1,69117,15,15,164,1,0,4,3,5,1,1,5,4,True,1,0.02
+3395,27983733,a few days or more,0.33,0.4,False,True,True,5,Santiago,-33.44237,-70.66523,Hotel room,1,5,4,1,22013,30,90,173,1,0,5,5,5,5,5,5,5,True,1,0.03
+3435,29902903,within an hour,1,0.96,False,True,True,11,Santiago,-33.44046,-70.64059,Hotel room,2,11,1,1,88054,2,30,365,1,0,5,5,5,5,5,5,5,True,10,0.03
+3450,28052008,Unknown,0,1,False,True,False,4,Santiago,-33.43642,-70.64395,Hotel room,1,4,1,1,83651,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3545,29309130,within a few hours,1,0,False,True,True,8,Santiago,-33.44271,-70.66601,Hotel room,1,8,1,1,10000,1,30,21,13,0,4.62,4.62,4.85,4.62,4.54,4.85,4.69,False,8,0.3
+3585,29390675,within a few hours,0.9,1,True,True,True,7,Santiago,-33.43991,-70.66825,Hotel room,10,7,1,10,56354,1,28,361,3,1,5,5,5,5,5,4.67,5,True,7,0.07
+3586,29391179,within a few hours,0.9,1,True,True,True,7,Santiago,-33.4378,-70.66774,Hotel room,6,7,1,6,28177,1,28,365,2,0,5,5,5,5,5,5,4.5,True,7,0.05
+3628,29531967,within a few hours,0.9,1,True,True,True,7,Santiago,-33.43855,-70.66623,Hotel room,10,7,1,10,56354,1,28,361,8,0,4.75,5,4.38,5,4.88,5,4.75,True,7,0.19
+3645,30791447,within an hour,1,0.99,False,True,True,10,Las Condes,-33.39949,-70.5725,Hotel room,6,10,1,1,120903,3,365,0,1,0,5,5,5,5,5,5,5,True,7,0.02
+3669,30812872,within a few hours,1,0,False,True,True,8,Santiago,-33.44274,-70.66544,Hotel room,1,8,1,1,11100,1,30,21,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,8,0
+3670,30813133,within a few hours,1,0,False,True,True,8,Santiago,-33.44146,-70.66591,Hotel room,1,8,1,1,11100,1,30,21,1,0,5,5,5,5,5,5,5,False,8,0.03
+3672,30813407,within a few hours,1,0,False,True,True,8,Santiago,-33.44318,-70.66699,Hotel room,1,8,1,1,10100,1,30,21,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,8,0
+3673,30813637,within a few hours,1,0,False,True,True,8,Santiago,-33.44111,-70.66712,Hotel room,1,8,1,1,10100,1,30,21,5,0,4.4,4,4.8,4.4,4.4,4.8,4.6,False,8,0.14
+3674,30813819,within a few hours,1,0,False,True,True,8,Santiago,-33.44246,-70.66566,Hotel room,1,8,1,1,48000,1,30,21,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,8,0
+3677,30813970,within a few hours,1,0,False,True,True,8,Santiago,-33.44098,-70.66559,Hotel room,1,8,1,1,11100,1,30,21,1,0,4,5,5,5,5,5,5,False,8,0.04
+3678,30814100,within a few hours,1,0,False,True,True,8,Santiago,-33.44141,-70.66535,Hotel room,1,8,1,1,11100,1,30,21,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,8,0
+3911,32065667,within an hour,1,0.96,False,True,True,11,Santiago,-33.43939,-70.64162,Hotel room,2,11,1,1,102644,1,180,336,8,0,4.75,4.75,5,5,5,5,4.88,True,10,0.2
+3916,32066092,within an hour,1,0.96,False,True,True,11,Santiago,-33.43879,-70.64048,Hotel room,3,11,1,2,149691,1,180,361,3,1,4.67,4.33,5,4.33,5,5,5,True,10,0.18
+3919,32066632,within an hour,1,0.96,False,True,True,11,Santiago,-33.43953,-70.64136,Hotel room,2,11,1,1,95098,1,180,336,16,2,4.88,4.81,4.88,4.88,4.88,5,4.88,True,10,0.39
+3923,32067040,within an hour,1,0.96,False,True,True,11,Santiago,-33.43899,-70.64073,Hotel room,5,11,2,3,205289,1,180,347,1,0,3,3,3,3,3,3,3,True,10,0.08
+3924,32067413,within an hour,1,0.96,False,True,True,11,Santiago,-33.43948,-70.64159,Hotel room,5,11,2,2,149744,1,30,351,9,6,3.89,3.67,3.78,4.11,4,4.11,3.67,True,10,0.23
+3948,32489112,within an hour,1,1,False,True,False,1,Providencia,-33.41337,-70.60751,Hotel room,2,1,1,1,81890,1,30,268,4,0,4.75,5,5,5,5,4.5,4.5,True,1,0.1
+4118,34465052,within a few hours,1,0.75,False,True,True,3,Las Condes,-33.41037,-70.57216,Hotel room,6,3,2,3,228059,1,90,336,13,1,4.85,4.92,4.69,4.92,4.92,5,4.62,False,3,0.36
+4160,35180830,within an hour,1,0,False,True,True,1,Providencia,-33.43175,-70.62158,Hotel room,16,1,1,1,1589371,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+4163,34108097,within a few hours,1,0.75,False,True,True,3,Las Condes,-33.41,-70.57124,Hotel room,4,3,1,4,166422,1,90,357,9,0,5,4.89,5,5,4.89,5,5,False,3,0.25
+4174,34563994,within a few hours,1,0.75,False,True,True,3,Las Condes,-33.41064,-70.57268,Hotel room,2,3,1,2,131200,1,90,357,10,0,5,4.7,5,5,5,4.9,4.6,False,3,0.27
+4313,35876954,within a few hours,1,1,False,True,True,8,Lo Barnechea,-33.34831,-70.31339,Hotel room,6,8,1,6,190000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,3,0
+4314,35877199,within a few hours,1,1,False,True,True,8,Lo Barnechea,-33.34983,-70.31331,Hotel room,4,8,1,4,120000,1,30,357,1,0,5,5,5,5,5,5,5,True,3,0.03
+4325,35880829,Unknown,0,0,False,True,True,2,Santiago,-33.44265,-70.66724,Hotel room,16,2,14,4,50191,3,10,90,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,2,0
+4691,38508673,within an hour,1,1,False,True,True,0,Recoleta,-33.43384,-70.63632,Hotel room,1,0,1,1,52000,1,30,193,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,3,0
+4698,38522799,within an hour,1,1,False,True,True,0,Providencia,-33.43403,-70.63509,Hotel room,2,0,1,1,58579,1,30,193,2,2,4.5,4.5,5,4.5,4.5,4.5,4.5,True,3,0.63
+4706,38545811,within an hour,1,1,False,True,True,0,Providencia,-33.43259,-70.63542,Hotel room,2,0,1,1,55000,1,30,193,5,5,4,4.6,4.8,4.4,3.8,2.8,3.6,True,3,0.92
+4711,38210197,within a few hours,1,1,False,True,True,0,Vitacura,-33.39905,-70.58598,Hotel room,2,0,5,5,100000,1,30,364,4,0,4.75,5,4.75,5,5,5,4.75,True,1,0.14
+4847,38487108,within an hour,0.97,0.98,False,True,True,1,Santiago,-33.4363,-70.64672,Hotel room,6,1,1,6,12072,4,30,52,7,6,5,4.71,4.57,5,5,5,5,True,8,0.51
+4980,39049518,within an hour,1,1,False,True,True,1,Providencia,-33.42734,-70.6056,Hotel room,2,1,1,1,145289,1,30,196,5,1,4.6,4.8,4.8,5,4.6,5,4.4,True,1,0.15
