@@ -1,0 +1,143 @@
+VarName1,ID,host_response_time,host_response_rate,host_acceptance_rate,hosTrue_is_superhost,host_has_profile_pic,host_identity_verified,host_listings_count,neighbourhood_cleansed,latitude,longitude,room_type,accommodates,bathrooms_text,bedrooms,beds,price,minimum_nights,maximum_nights,availability_365,number_of_reviews,number_of_reviews_ltm,review_scores_rating,review_scores_accuracy,review_scores_cleanliness,review_scores_checkin,review_scores_communication,review_scores_location,review_scores_value,instant_bookable,calculated_host_listings_count,reviews_per_month
+0,102444,Unknown,0,0,False,True,False,1,La Florida,-33.55981,-70.55494,Shared room,3,1,1,2,70443,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+82,2096152,Unknown,0,0,False,True,False,1,Las Condes,-33.40707,-70.58549,Shared room,2,1,1,2,75726,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+120,147552,a few days or more,0,0,False,True,False,2,Lo Barnechea,-33.36054,-70.51288,Shared room,4,2,1,2,36983,1,30,365,5,0,5,4.2,4.6,4.6,4.8,4.8,4.6,False,2,0.06
+199,2703418,within a day,0.7,0.83,False,True,False,2,Santiago,-33.45911,-70.65165,Shared room,2,2,1,2,18000,1,30,360,19,9,4.56,4.81,4.69,4.69,4.81,4.69,4.69,False,3,0.23
+255,3003999,a few days or more,0,0,False,True,True,1,Santiago,-33.44779,-70.63306,Shared room,3,1,1,1,51952,1,30,365,1,0,5,5,5,5,5,5,5,False,1,0.01
+455,6504999,Unknown,0,0,False,True,False,1,San Miguel,-33.50001,-70.65824,Shared room,2,1,1,2,74846,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+457,5312541,within a few hours,0.92,1,False,True,True,3,Santiago,-33.44054,-70.67307,Shared room,14,3,1,13,17611,90,30,358,13,0,4.31,4.23,4.42,4.38,4.23,4,4.31,True,1,0.15
+520,6527934,a few days or more,0,0,False,True,False,1,Santiago,-33.45345,-70.64629,Shared room,2,1,1,1,48430,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+557,4791814,within an hour,1,1,False,True,False,1,Santiago,-33.43671,-70.6369,Shared room,8,1,1,8,17611,1,365,363,28,1,4.5,4.46,4.36,4.43,4.64,4.79,4.5,True,1,0.31
+663,9520514,Unknown,0,0,False,True,True,1,Providencia,-33.43294,-70.61499,Shared room,1,1,1,1,26416,1,5,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+680,7816718,a few days or more,0,0,False,True,False,1,Recoleta,-33.42179,-70.64294,Shared room,16,1,1,16,17611,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+791,8286004,within an hour,1,0.8,False,True,False,4,Providencia,-33.44501,-70.62811,Shared room,6,4,1,6,19372,1,4,172,37,0,4.76,4.68,4.57,4.84,4.81,4.84,4.78,True,4,0.45
+797,8290728,within an hour,1,0.8,False,True,False,4,Providencia,-33.44468,-70.62738,Shared room,8,4,1,8,17611,1,7,172,20,0,4.6,4.58,4.63,4.79,4.89,4.79,4.79,True,4,0.24
+930,10946651,within a few hours,1,0.5,False,True,False,3,Santiago,-33.44714,-70.6584,Shared room,3,3,1,2,48430,1,30,365,1,0,0,4.7,4.6,4.8,4.8,4.8,4.6,False,3,0.01
+1098,11396884,Unknown,0,1,False,True,True,1,Estación Central,-33.45506,-70.69957,Shared room,1,1,1,2,39624,1,30,180,1,0,4,5,5,5,5,4,5,True,1,0.01
+1160,13203313,within a day,1,0,False,True,True,2,Lo Barnechea,-33.35024,-70.29243,Shared room,9,2,1,9,141429,2,30,339,39,0,4.95,4.92,4.89,4.95,4.95,4.95,4.81,False,1,0.53
+1194,12954150,within a day,1,0.14,False,True,True,1,La Florida,-33.54043,-70.56911,Shared room,6,1,1,4,12066,1,30,323,6,0,4.8,5,4.4,5,5,4.5,4.75,False,1,0.08
+1271,14298883,a few days or more,0,0,False,False,False,1,Providencia,-33.43538,-70.63013,Shared room,12,1,1,16,10249,1,30,364,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+1334,15204315,Unknown,0,0,False,True,False,1,Santiago,-33.43621,-70.64946,Shared room,1,1,1,1,11429,1,30,87,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+1454,16018281,Unknown,0,0,False,True,False,1,Providencia,-33.44507,-70.59694,Shared room,2,1,1,1,26416,2,30,172,3,0,5,5,5,5,5,5,5,False,1,0.06
+1480,16514572,a few days or more,0,0,False,True,False,1,Ñuñoa,-33.458,-70.60862,Shared room,1,1,1,1,18500,2,7,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+1496,15760298,Unknown,0,0,False,True,True,1,Santiago,-33.44799,-70.63992,Shared room,1,1,1,1,9000,1,4,113,2,0,5,5,5,5,5,5,5,True,1,0.03
+1630,17203525,within an hour,0.93,0.97,False,True,True,16,Providencia,-33.4406,-70.6335,Shared room,1,16,1,1,8990,1,30,307,37,23,4.51,4.62,4.49,4.62,4.54,4.62,4.59,True,16,0.58
+1733,18008512,within a few hours,0.71,0,False,True,False,1,Santiago,-33.45018,-70.64184,Shared room,1,1,1,0,9000,1,3,176,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+1909,19363632,Unknown,0,0,False,True,False,1,Maipú,-33.5214,-70.779,Shared room,3,1,1,3,250000,1,30,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+1912,18434180,Unknown,0,0,False,True,False,1,Santiago,-33.43752,-70.64419,Shared room,1,1,1,1,25000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+1963,19504452,Unknown,0,0,False,True,False,1,Macul,-33.48414,-70.59389,Shared room,2,1,1,2,20000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+1979,19983192,a few days or more,0,0,False,True,False,3,Providencia,-33.42498,-70.60999,Shared room,2,3,1,2,52832277,3,30,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2025,20169004,a few days or more,0,0,False,True,False,1,Las Condes,-33.39989,-70.55941,Shared room,2,1,1,1,30000,1,2,89,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2080,19802570,Unknown,0,0,False,True,False,1,Santiago,-33.44817,-70.67078,Shared room,1,1,1,1,22000,2,7,90,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2087,20215358,a few days or more,0.25,1,False,True,False,1,Renca,-33.39739,-70.69803,Shared room,1,1,1,1,8214,7,31,365,3,0,4.33,5,3.67,5,5,5,5,True,1,0.05
+2234,20755408,Unknown,0,0,False,True,True,1,Santiago,-33.43931,-70.65172,Shared room,3,1,1,3,90000,1,31,364,1,0,0,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0.02
+2272,21546639,Unknown,0,0,False,True,True,4,Providencia,-33.4251,-70.59886,Shared room,1,4,1,1,20000,4,30,0,27,0,4.93,4.81,4.67,4.96,4.93,4.81,4.81,True,1,0.48
+2397,22617143,Unknown,0,0,False,True,False,1,Macul,-33.4906,-70.61605,Shared room,1,1,1,1,35000,1,3,180,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2475,22714081,a few days or more,0,0,False,True,False,1,Providencia,-33.43155,-70.62358,Shared room,2,1,1,2,22000,1,30,364,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2479,22340869,Unknown,0,0,False,True,False,1,Santiago,-33.44685,-70.64993,Shared room,3,1,1,3,65000,3,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2525,22415948,a few days or more,0.33,0,False,True,False,2,Santiago,-33.44759,-70.65432,Shared room,1,2,1,1,15000,2,60,89,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+2531,22423223,a few days or more,0,0,False,True,False,1,Santiago,-33.44965,-70.65667,Shared room,2,1,1,2,20000,1,30,364,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2537,22859291,Unknown,0,0,False,True,False,1,Santiago,-33.43845,-70.66182,Shared room,1,1,1,1,9000,7,7,90,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2586,23913798,within a few hours,0.67,0,False,True,False,1,Independencia,-33.4276,-70.65473,Shared room,1,1,1,1,9686,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2654,24101336,a few days or more,0,0,False,True,False,1,Santiago,-33.43433,-70.65553,Shared room,1,1,1,1,9000,1,3,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+2754,24303933,Unknown,0,0,False,True,False,1,La Cisterna,-33.52334,-70.6533,Shared room,3,1,1,1,60455,3,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2805,23748588,Unknown,0,0,False,True,False,1,Santiago,-33.44928,-70.65575,Shared room,1,1,1,1,35000,2,10,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2895,25536706,a few days or more,0,0,False,True,True,4,Las Condes,-33.41769,-70.60183,Shared room,1,4,1,1,25000,1,2,90,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,2,0
+2897,25543756,a few days or more,0,0,False,True,True,4,Providencia,-33.41961,-70.60209,Shared room,1,4,1,1,25148,1,2,87,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0
+2911,25631208,Unknown,0,0,False,True,False,1,Santiago,-33.43207,-70.67632,Shared room,1,1,1,1,28000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+2913,25648527,within a few hours,1,1,True,True,False,1,Las Condes,-33.41227,-70.56594,Shared room,1,1,1,1,15000,7,30,172,1,1,5,5,5,5,5,5,5,False,5,0.09
+2931,25784545,a few days or more,0,0,False,True,False,1,Las Condes,-33.41171,-70.59232,Shared room,1,1,1,1,18000,20,23,0,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3000,26805816,within an hour,0.93,0.97,False,True,True,16,Santiago,-33.44164,-70.63453,Shared room,1,16,1,5,8990,1,99,339,32,16,4.56,4.69,4.41,4.72,4.59,4.81,4.59,True,16,0.67
+3001,26806065,within an hour,0.93,0.97,False,True,True,16,Providencia,-33.44061,-70.63328,Shared room,1,16,1,6,8990,1,30,345,13,9,4,4.15,3.85,4.38,4.31,4.46,4.23,True,16,0.32
+3024,26964822,within a day,0.8,0,False,True,False,3,Independencia,-33.41731,-70.67128,Shared room,1,3,1,1,7000,1,1,90,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3049,27079427,a few days or more,0,0,False,True,False,1,Macul,-33.47759,-70.60133,Shared room,2,1,1,2,20000,1,30,364,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3129,26432700,within a few hours,0.79,0.53,False,True,True,12,Santiago,-33.44003,-70.63705,Shared room,2,12,1,1,17000,1,30,87,7,0,5,5,4.57,4.86,4.86,5,5,False,13,0.15
+3153,27457457,within a day,1,0.5,False,True,False,2,Santiago,-33.43969,-70.64742,Shared room,2,2,1,2,28000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0
+3160,25180543,within an hour,1,0.69,False,True,False,3,La Cisterna,-33.52457,-70.66853,Shared room,3,3,1,3,15000,1,30,365,1,1,5,5,5,5,5,5,5,True,3,0.56
+3171,25234963,within an hour,1,0.69,False,True,False,3,La Cisterna,-33.52464,-70.67051,Shared room,2,3,1,1,15000,1,30,364,3,3,4.67,4.67,3.67,5,5,4.33,4.33,True,3,0.38
+3269,27812189,within an hour,1,0.69,False,True,False,3,La Cisterna,-33.52446,-70.67034,Shared room,2,3,1,2,15000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,3,0
+3286,26636099,within an hour,1,1,False,True,False,6,Vitacura,-33.38995,-70.59473,Shared room,2,6,1,2,14000,7,30,172,5,0,4.8,5,4.6,5,5,4.8,4.8,False,6,0.13
+3354,27908654,Unknown,0,0,False,True,True,1,Ñuñoa,-33.45075,-70.62086,Shared room,1,1,1,1,30819,3,10,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+3410,27990628,Unknown,0,1,False,True,False,1,Pedro Aguirre Cerda,-33.49671,-70.66863,Shared room,2,1,1,2,30000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3480,30083148,Unknown,0,0,False,True,False,1,Santiago,-33.43886,-70.64631,Shared room,2,1,1,1,20000,1,7,89,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3555,29313178,within a day,0.5,0,False,True,False,1,Peñalolén,-33.46482,-70.54273,Shared room,2,1,1,2,7500,3,7,178,1,0,1,1,1,1,1,1,1,False,1,0.03
+3622,30746311,Unknown,0,0,False,True,True,1,Conchalí,-33.39993,-70.68137,Shared room,2,1,1,2,35000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3681,29708805,a few days or more,0,0,False,True,False,1,Las Condes,-33.41246,-70.58433,Shared room,1,1,1,1,20000,1,30,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+3695,30818124,Unknown,0,0,False,True,False,1,Santiago,-33.44932,-70.64426,Shared room,1,1,1,1,6500200,1,30,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3704,31557965,a few days or more,0.2,0.67,False,True,False,1,Macul,-33.48755,-70.58527,Shared room,2,1,1,1,10000,1,88,365,1,1,1,1,1,1,1,1,1,True,1,0.15
+3715,30902678,within a day,0.5,0.5,False,True,False,2,Maipú,-33.56038,-70.77924,Shared room,2,2,1,2,15000,3,30,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0
+3734,30922030,within a day,0.5,0.5,False,True,False,2,Maipú,-33.56024,-70.77787,Shared room,2,2,1,2,15000,3,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0
+3759,31690363,a few days or more,0,0,False,True,False,1,Santiago,-33.43637,-70.64133,Shared room,1,1,1,1,9000,1,7,364,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3798,31833003,Unknown,0,0,False,True,True,1,Huechuraba,-33.37175,-70.63833,Shared room,6,1,1,1,75000,4,30,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+3814,31872901,within an hour,1,0.5,False,True,False,1,Estación Central,-33.45769,-70.69107,Shared room,1,1,1,1,15000,1,5,364,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+3950,32491431,within a day,1,0,False,True,False,1,Providencia,-33.43123,-70.61957,Shared room,1,1,1,1,15000,1,3,179,1,0,5,5,5,5,5,5,5,False,1,0.04
+4053,33847870,a few days or more,0,0.5,False,True,False,1,Independencia,-33.41859,-70.6589,Shared room,1,1,1,1,9000,1,6,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4074,33900428,within a few hours,0.9,0.63,False,True,True,2,San Miguel,-33.48924,-70.65643,Shared room,3,2,1,3,25423,1,30,354,4,0,4.75,5,4.5,5,5,5,4.5,True,1,0.1
+4100,33940493,within an hour,1,1,False,True,False,1,Santiago,-33.44942,-70.63617,Shared room,2,1,1,2,25000,1,5,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4167,34534456,a few days or more,0,0,False,True,False,1,La Cisterna,-33.52578,-70.66071,Shared room,1,1,1,1,6900,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+4233,35276833,within an hour,1,0.79,False,True,True,1,Santiago,-33.44732,-70.6405,Shared room,2,1,1,1,12673,1,10,365,6,6,5,5,5,5,5,5,5,False,1,0.95
+4321,35497964,Unknown,0,0,False,True,False,1,Quinta Normal,-33.41077,-70.71908,Shared room,2,1,1,2,27845,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4326,35881704,Unknown,0,0,False,True,True,2,Santiago,-33.44218,-70.66576,Shared room,8,2,1,8,8805,3,14,90,1,0,3,3,4,5,3,4,3,False,2,0.03
+4368,35095971,a few days or more,0,0,False,True,False,1,Santiago,-33.43585,-70.64143,Shared room,1,1,1,1,9000,1,2,180,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4400,36084022,within an hour,1,1,False,True,False,1,Independencia,-33.42519,-70.6553,Shared room,1,1,1,1,15000,1,3,365,1,1,1,1,1,1,1,1,1,False,1,1
+4516,37428094,within an hour,1,1,False,True,True,5,Lo Barnechea,-33.35036,-70.31273,Shared room,2,5,1,1,87143,1,30,271,2,0,4.5,5,5,5,5,5,4.5,True,4,0.06
+4597,37568397,Unknown,0,0,False,True,False,0,Ñuñoa,-33.45336,-70.62265,Shared room,1,0,1,1,25000,1,90,90,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4627,37636204,a few days or more,0,1,False,True,False,2,Ñuñoa,-33.45321,-70.6244,Shared room,1,2,1,1,15000,1,30,365,1,1,1,1,1,1,1,1,1,True,2,0.15
+4637,38044902,within a few hours,1,0.83,True,True,False,2,San Miguel,-33.48479,-70.65543,Shared room,2,2,1,2,30000,1,30,365,1,0,5,5,5,5,5,5,5,False,7,0.03
+4669,37772923,within a day,1,0.67,False,True,False,1,Santiago,-33.45817,-70.63086,Shared room,1,1,1,1,15000,2,14,178,2,0,5,5,5,5,5,5,5,False,1,0.06
+4674,37781219,a few days or more,0,1,False,True,False,2,Ñuñoa,-33.4512,-70.62419,Shared room,1,2,1,1,20000,1,30,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0
+4686,38138085,a few days or more,0,0,False,True,False,1,Santiago,-33.43403,-70.66504,Shared room,1,1,1,1,10000,1,2,89,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4709,38206630,a few days or more,0,0,False,True,True,0,Santiago,-33.45255,-70.64346,Shared room,1,0,1,1,9000,2,5,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+4719,38578673,a few days or more,0,0,False,True,False,0,Estación Central,-33.45652,-70.70236,Shared room,1,0,1,1,18000,1,7,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4721,37917283,within an hour,0.9,0.9,False,True,False,1,Santiago,-33.43566,-70.65768,Shared room,1,1,1,1,8429,3,6,351,14,13,5,4.93,4.93,5,5,5,4.93,False,1,0.41
+4768,39108705,within an hour,1,1,False,True,False,0,Santiago,-33.43947,-70.64192,Shared room,4,0,1,2,86293,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4787,38694385,a few days or more,0,0,False,True,False,2,Providencia,-33.43563,-70.62503,Shared room,6,2,1,6,20252,1,30,180,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0
+4819,38795788,a few days or more,0.22,1,False,True,False,0,Lo Prado,-33.43887,-70.72682,Shared room,1,0,1,1,9000,1,30,362,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4837,38479311,a few days or more,0,0,False,True,False,0,Santiago,-33.45021,-70.67008,Shared room,1,0,1,1,18500,1,5,180,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4890,39365079,Unknown,0,0,False,True,False,0,Vitacura,-33.38346,-70.53705,Shared room,1,0,1,1,50000,1,3,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4898,39992476,a few days or more,0,0,False,True,True,0,Santiago,-33.46395,-70.63265,Shared room,1,0,1,0,9500,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+4903,39405679,a few days or more,0,0,False,True,False,0,Santiago,-33.43502,-70.6557,Shared room,2,0,1,1,15000,1,5,180,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+4915,38948222,a few days or more,0,0,False,True,False,2,Providencia,-33.43416,-70.62333,Shared room,2,2,1,2,25536,1,30,179,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,2,0
+4960,40139463,a few days or more,0,0,False,True,False,0,Independencia,-33.42047,-70.66722,Shared room,3,0,1,2,30000,1,7,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+5078,41078098,within a day,1,0.78,False,True,False,0,Santiago,-33.44007,-70.66278,Shared room,4,0,1,4,75000,1,30,269,1,1,5,5,5,5,5,5,5,False,3,0.32
+5128,40500576,a few days or more,0,1,False,True,False,1,Santiago,-33.43552,-70.65824,Shared room,1,1,1,1,8805,1,30,365,1,1,1,1,1,1,1,1,1,True,1,0.27
+5146,40512945,a few days or more,0,0,False,True,False,1,San Miguel,-33.50789,-70.65963,Shared room,2,1,1,2,15000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+5344,42226281,Unknown,0,0,False,True,True,0,Santiago,-33.45004,-70.64282,Shared room,1,0,1,0,19050,1,4,90,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+5406,42378561,a few days or more,0,0,False,True,False,0,La Florida,-33.51304,-70.53626,Shared room,2,0,1,2,9000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+5543,43266193,a few days or more,0,0,False,True,False,0,Independencia,-33.42729,-70.65866,Shared room,1,0,1,0,8589,5,7,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+5698,45658730,a few days or more,0,0,False,True,False,1,Santiago,-33.43561,-70.66404,Shared room,1,1,1,2,14000,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+6042,48916285,a few days or more,0,0,False,True,True,0,San Joaquín,-33.47698,-70.6226,Shared room,2,0,1,0,20000,2,30,87,1,0,5,5,5,5,5,5,5,True,1,0.07
+6167,50244035,within an hour,1,0.62,False,True,False,1,Las Condes,-33.40343,-70.5666,Shared room,2,1,1,3,33429,2,30,8,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,2,0
+6542,52352478,Unknown,0,0,False,True,True,0,La Cisterna,-33.53956,-70.66005,Shared room,1,0,1,1,15846,1,365,65,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
+6555,52947233,within an hour,0.95,0.89,False,True,True,39,Providencia,-33.43205,-70.62044,Shared room,6,39,1,0,10000,1,30,365,8,8,4.25,4.25,3.75,3.63,3.63,4.63,4.25,False,39,1.16
+6563,52981119,within an hour,0.93,0.97,False,True,True,16,Santiago,-33.44125,-70.63434,Shared room,1,16,1,0,9990,1,30,339,1,1,4,5,5,5,5,5,5,True,16,0.13
+6582,53027132,within an hour,0.93,0.97,False,True,True,16,Providencia,-33.43974,-70.63301,Shared room,1,16,1,6,9990,1,30,361,13,13,4.62,4.62,4.69,4.69,4.62,4.77,4.77,True,16,1.82
+6645,53449823,within an hour,1,1,False,True,True,0,Estación Central,-33.45238,-70.69737,Shared room,4,0,1,1,45000,1,30,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+6969,54271202,within an hour,0.95,0.89,False,True,True,39,Providencia,-33.43259,-70.62201,Shared room,6,39,1,1,12000,1,365,365,2,2,4,4,4.5,4,3.5,4.5,4.5,False,39,0.39
+7045,54047574,within an hour,0.96,0.86,False,True,True,2,Providencia,-33.43356,-70.61658,Shared room,3,2,1,4,51429,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,43,0
+7180,5.81989e+17,within an hour,0.95,0.89,False,True,True,39,Providencia,-33.43367,-70.61713,Shared room,4,39,1,4,15000,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,39,0
+7218,5.73751e+17,within an hour,0.95,1,False,True,True,8,Providencia,-33.43391,-70.61684,Shared room,2,8,1,1,22500,1,365,362,12,12,4.83,4.92,4.92,4.92,4.92,4.92,4.83,True,8,3.83
+7219,5.73788e+17,within an hour,0.95,1,False,True,True,8,Providencia,-33.432789,-70.617371,Shared room,2,8,1,1,22500,1,365,356,15,15,4.47,4.67,4.27,4.6,4.67,4.93,4.33,True,8,5
+7220,5.73809e+17,within an hour,0.95,1,False,True,True,8,Providencia,-33.43164,-70.61807,Shared room,2,8,1,1,22500,1,365,365,8,8,4.88,4.25,4.88,5,4.88,5,4.88,True,8,2.16
+7323,5.86989e+17,within an hour,1,1,False,True,True,0,Providencia,-33.42825,-70.61957,Shared room,2,0,1,2,18000,1,30,325,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+7349,5.87766e+17,within an hour,0.7,1,False,True,True,2,Providencia,-33.44523,-70.62627,Shared room,1,2,1,1,20000,1,30,365,3,3,5,5,4.67,5,5,5,4.67,True,2,1.67
+7413,6.00569e+17,within an hour,0.88,0.76,False,True,False,0,Santiago,-33.43927,-70.64921,Shared room,8,0,1,8,16000,1,365,365,1,1,1,1,1,4,5,5,1,True,37,0.48
+7490,6.03601e+17,a few days or more,0,0,False,False,True,0,Independencia,-33.409241,-70.657707,Shared room,2,0,1,1,30000,30,365,364,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+7511,5.92822e+17,within an hour,0.95,0.89,False,True,True,39,Santiago,-33.43926,-70.6494,Shared room,8,39,1,8,15000,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,39,0
+7516,6.03909e+17,within a day,0.7,0.83,False,True,False,2,Santiago,-33.464066,-70.651924,Shared room,2,2,1,3,25000,1,365,365,1,1,5,5,5,5,5,5,5,True,3,1
+7548,6.05019e+17,within an hour,0.96,0.86,False,True,True,2,Providencia,-33.43046,-70.62052,Shared room,4,2,1,6,20000,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,43,0
+7551,5.9437e+17,within an hour,1,0.94,False,True,True,0,Santiago,-33.43455,-70.6565,Shared room,1,0,1,1,9000,1,6,64,9,9,4.89,4.89,4.78,4.89,5,5,5,True,1,3.46
+7697,5.99808e+17,within an hour,0.88,0.76,False,True,False,0,Santiago,-33.43914,-70.65072,Shared room,8,0,1,8,16000,1,365,365,4,4,4.5,4.75,4.5,5,4.75,5,4.5,True,37,1.76
+7845,6.26719e+17,within an hour,1,0,False,False,True,0,Maipú,-33.49803,-70.75252,Shared room,1,0,1,2,8000,1,30,364,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+7906,6.34932e+17,within a day,0.7,0.83,False,True,False,2,Santiago,-33.464397,-70.652046,Shared room,2,2,1,2,25000,1,365,362,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,3,0
+7920,6.35331e+17,within an hour,0.88,0.76,False,True,False,0,Santiago,-33.4377,-70.65144,Shared room,6,0,1,6,12714,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,37,0
+7923,6.35339e+17,within an hour,0.88,0.76,False,True,False,0,Santiago,-33.43767,-70.65151,Shared room,10,0,1,10,13143,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,37,0
+7970,6.3608e+17,within an hour,0.88,0.76,False,True,False,0,Providencia,-33.43069,-70.62184,Shared room,4,0,1,4,12714,1,365,364,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,37,0
+7972,6.36155e+17,within an hour,0.96,0.86,False,True,True,2,Santiago,-33.43805,-70.65073,Shared room,6,2,1,6,12714,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,43,0
+7979,6.36168e+17,within an hour,0.96,0.86,False,True,True,2,Santiago,-33.43747,-70.65103,Shared room,10,2,1,10,12714,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,43,0
+7983,6.29816e+17,within an hour,1,1,False,True,True,0,Ñuñoa,-33.45026,-70.63125,Shared room,10,0,1,17,10657,1,365,363,1,1,5,5,5,5,5,5,5,False,1,1
+7989,6.36238e+17,within an hour,0.96,0.86,False,True,True,2,Santiago,-33.43912,-70.65114,Shared room,8,2,1,8,12714,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,43,0
+7994,6.36247e+17,within an hour,0.96,0.86,False,True,True,2,Santiago,-33.43952,-70.65,Shared room,8,2,1,8,12714,1,365,365,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,43,0
+8034,23293208,Unknown,0,0,False,True,False,1,La Florida,-33.55823,-70.5438,Shared room,1,1,1,1,20000,1,7,89,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,True,1,0
+8051,14093932,Unknown,0,1,False,True,False,3,La Florida,-33.56334,-70.54924,Shared room,2,3,1,1,15000,5,30,88,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,2,0
+8150,6.49823e+17,Unknown,0,0,False,True,True,0,Conchalí,-33.3864523,-70.6785014,Shared room,2,0,1,2,24627,1,30,362,0,0,4.5,4.7,4.6,4.8,4.8,4.8,4.6,False,1,0
